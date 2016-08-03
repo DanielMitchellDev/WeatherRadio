@@ -1,0 +1,1 @@
+This app will make a call with php to the API at http://openweathermap.org/, the returning data will be for user's local city. With javascript we will take that data and play a specific audio playlist of music depending on the weather. 
